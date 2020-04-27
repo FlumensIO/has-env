@@ -1,0 +1,24 @@
+{
+  "name": "@flumens/has-env",
+  "version": "1.0.0",
+  "description": "Checks whether all the required env-vars are set in the environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlumensIO/has-env.git"
+  },
+  "keywords": [
+    "has",
+    "env",
+    "check"
+  ],
+  "author": "Karolis Kazlauskis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlumensIO/has-env/issues"
+  },
+  "homepage": "https://github.com/FlumensIO/has-env#readme"
+}
